@@ -11,6 +11,9 @@ This is a list of reputable life sciences conferences, societies, and journals.
 - [American Society of Gene and Cell Therapy](https://asgct.org/)
 - [American Society for Biochemistry and Molecular Biology](https://www.asbmb.org/)
 
+### Bioinformatics and Computational Biology
+- [International Society for Computational Biology](https://www.iscb.org/)
+
 ## Journals
 
 ### General
@@ -26,7 +29,7 @@ This is a list of reputable life sciences conferences, societies, and journals.
 ### Chemistry
 - [Journal of Medicinal Chemistry (ACS)](https://pubs.acs.org/journal/jmcmar)
 
-### Bioinformatics
+### Bioinformatics and Computational Biology
 - [Briefings in Bioinformatics (Oxford Academic)](https://academic.oup.com/bib)
   - Publishes reviews for the users of databases and analytical tools of contemporary genetics, molecular and systems biology.
   - Unique feature: provides practical help and guidance to the non-specialist in computerized methodology.
@@ -44,6 +47,7 @@ This is a list of reputable life sciences conferences, societies, and journals.
     - Structure determination and function prediction
     - Phylogenetic studies
     - Education and training
+- [Journal of Computational Biology](https://home.liebertpub.com/publications/journal-of-computational-biology/31)
 
 
 <sup>†</sup> Open access journal
