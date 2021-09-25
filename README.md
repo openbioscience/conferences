@@ -49,5 +49,9 @@ This is a list of reputable life sciences conferences, societies, and journals.
     - Education and training
 - [Journal of Computational Biology](https://home.liebertpub.com/publications/journal-of-computational-biology/31)
 
+### Medicine
+
+#### Urogynecology
+- [International Urogynecology Journal](https://www.springer.com/journal/192)
 
 <sup>†</sup> Open access journal
